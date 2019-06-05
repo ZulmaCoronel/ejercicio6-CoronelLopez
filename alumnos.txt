@@ -1,10 +1,50 @@
-14401025 Zulma Isabel Coronel Lopez 90
-15400035 Ana Paola Lopez Orozco 84
-14401027 Arturo Misael Escalante Licona 95
-14401038 Ana Carolina Mondragon Rangel 98
-15401057 Carlos Emmanuel Zambrano Cortez 78
-16400189 Jonathan Zavala Duarte 87
-15401046 Issia Virgen Rivera 89
-16400198 Jorge Omar Mariscal 85
-15401002 Noe Jahir Rodriguez Castillo 94
-16400138 Lizbeth Araceli Luna Ceniceros 87
+No: 1
+NumeroControl: 14401025
+Nombre: Zulma Isabel Coronel Lopez
+Calificación: 90
+______
+No: 2
+NumeroControl: 15400035
+Nombre: Ana Paola Lopez Orozco
+Calificación: 84
+______
+No: 3
+NumeroControl: 14401027
+Nombre:  Arturo Misael Escalante Licona
+Calificación:  95
+______
+No: 4
+NumeroControl: 14401038
+Nombre:  Ana Carolina Mondragon Rangel
+Calificación:  98
+______
+No: 5
+NumeroControl: 15401057
+Nombre:  Carlos Emmanuel Zambrano Cortez 
+Calificación: 78
+______
+No: 6
+NumeroControl: 16400189
+Nombre:  Jonathan Zavala Duarte
+Calificación:  87
+______
+No: 7
+NumeroControl: 15401046
+Nombre:  Issia Virgen Rivera
+Calificación:  89
+______
+No: 8
+NumeroControl: 16400198
+Nombre:  Jorge Omar Mariscal
+Calificación:  85
+______
+No: 9
+NumeroControl: 15401002
+Nombre:  Noe Jahir Rodriguez Castillo
+Calificación:  94
+______
+No: 10
+NumeroControl: 16400138
+Nombre:  Lizbeth Araceli Luna Ceniceros
+Calificación:  87
+______
